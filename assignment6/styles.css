@@ -1,0 +1,43 @@
+body{
+    margin: 0;
+    border: 5px solid black;
+    height: 100vh;
+    padding: 10px;
+    background-image: url('./wl.jpeg');
+}
+
+.ui {
+    text-align: center;
+    color: antiquewhite;
+}
+
+.hi,.hi1,.hi2,.hi3{
+    margin-bottom: 20px;
+    
+}
+.txt{
+    color: aliceblue;
+}
+.hi2{
+    margin-left: 30px;
+}
+.hi3{
+    margin-left: 10px;
+}
+.frm{
+    text-align: center;
+    margin-left: 350px;
+    margin-right: 350px;
+    border: 1px solid aliceblue;
+    border-radius: 5px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.sub{
+    
+    padding-left: 145px;
+    padding-right: 145px;
+    background-color: black;
+    color: aliceblue;
+
+}
